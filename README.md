@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Kartik's profile banner" src="dark.svg" width="100%">
-</picture>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kartik-IN&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views"/>
@@ -73,10 +67,6 @@ reach_me: kalekartik2004@gmail.com
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**📈 Data Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </td>
 </tr>
@@ -134,18 +124,6 @@ Fully serverless architecture reacting to events in real time.
 ![Linux](https://img.shields.io/badge/Linux%20for%20Absolute%20Beginners-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker%20for%20Absolute%20Beginners-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik-IN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Kartik's GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-IN&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" width="41%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-IN&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" width="70%"/>
-
-</div>
 
 <br/>
 

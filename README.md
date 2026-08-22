@@ -174,9 +174,9 @@ Fully serverless architecture reacting to events instantly.
 ## `// 06_CONTRIBUTION_MATRIX.grid`
 
 <div align="center">
-<img src="https://img.shields.io/badge/Snake_Workflow-Enabled-10B981?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Output_Branch-Auto_Generated-2563EB?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Schedule-Daily-7C3AED?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/github/actions/workflow/status/Kartik-IN/Kartik-IN/snake.yml?branch=main&style=for-the-badge&label=Snake%20Workflow&labelColor=0F172A&color=10B981" alt="Snake workflow status"/>
+<img src="https://img.shields.io/github/last-commit/Kartik-IN/Kartik-IN?style=for-the-badge&label=Last%20Update&labelColor=0F172A&color=2563EB" alt="Last update"/>
+<img src="https://img.shields.io/badge/Schedule-Daily-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Daily schedule"/>
 
 <sub>The contribution snake will appear from the <code>output</code> branch after the workflow runs.</sub>
 </div>

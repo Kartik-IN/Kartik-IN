@@ -44,31 +44,51 @@ contact    : kalekartik2004@gmail.com
 
 <div align="center">
 
-**☁️ CLOUD LAYER**
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45"/>&nbsp;
-<img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Lambda-232F3E?style=for-the-badge&logo=awslambda&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Route53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazonrds&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-
-**⚙️ DEVOPS & INFRASTRUCTURE-AS-CODE**
-
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,terraform&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**📊 MONITORING & OBSERVABILITY**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**💻 LANGUAGES & TOOLING**
-
-<img src="https://skillicons.dev/icons?i=python,bash,postgres,linux,git,kubernetes&theme=dark" height="45"/>
+<table>
+<tr>
+<td align="center"><strong>CLOUD</strong></td>
+<td>
+  <code>AWS</code>
+  <code>EC2</code>
+  <code>S3</code>
+  <code>Lambda</code>
+  <code>CloudFront</code>
+  <code>Route 53</code>
+  <code>RDS</code>
+  <code>IAM</code>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>DEVOPS</strong></td>
+<td>
+  <code>Docker</code>
+  <code>Jenkins</code>
+  <code>GitHub Actions</code>
+  <code>Terraform</code>
+  <code>CloudFormation</code>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>OBSERVABILITY</strong></td>
+<td>
+  <code>Prometheus</code>
+  <code>Grafana</code>
+  <code>Alertmanager</code>
+  <code>CloudWatch</code>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>TOOLS</strong></td>
+<td>
+  <code>Python</code>
+  <code>Bash</code>
+  <code>PostgreSQL</code>
+  <code>Linux</code>
+  <code>Git</code>
+  <code>Kubernetes</code>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -154,9 +174,11 @@ Fully serverless architecture reacting to events instantly.
 ## `// 06_CONTRIBUTION_MATRIX.grid`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Kartik-IN/Kartik-IN/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake animation"/>
+<img src="https://img.shields.io/badge/Snake_Workflow-Enabled-10B981?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Output_Branch-Auto_Generated-2563EB?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Schedule-Daily-7C3AED?style=for-the-badge&labelColor=0F172A"/>
 
-<sub>Generated daily by <code>.github/workflows/snake.yml</code>.</sub>
+<sub>The contribution snake will appear from the <code>output</code> branch after the workflow runs.</sub>
 </div>
 
 <br/>

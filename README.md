@@ -14,6 +14,14 @@
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img src="dark.svg" width="100%" alt="Kartik Kale profile card"/>
+</picture>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&width=100%" width="100%"/>
 
 ## `// 01_ABOUT.sys`
@@ -148,7 +156,7 @@ Fully serverless architecture reacting to events instantly.
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kartik-IN/Kartik-IN/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake animation"/>
 
-<sub>⚠️ Renders once the <code>snake.yml</code> GitHub Action is enabled on this repo — see setup note below.</sub>
+<sub>Generated daily by <code>.github/workflows/snake.yml</code>.</sub>
 </div>
 
 <br/>

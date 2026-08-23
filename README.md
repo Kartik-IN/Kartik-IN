@@ -174,7 +174,7 @@ Fully serverless architecture reacting to events instantly.
 ## `// 06_CONTRIBUTION_MATRIX.grid`
 
 <div align="center">
-<img src="https://img.shields.io/github/actions/workflow/status/Kartik-IN/Kartik-IN/snake.yml?branch=main&style=for-the-badge&label=Snake%20Workflow&labelColor=0F172A&color=10B981" alt="Snake workflow status"/>
+<img src="https://img.shields.io/github/actions/workflow/status/Kartik-IN/Kartik-IN/main.yml?branch=main&style=for-the-badge&label=Snake%20Workflow&labelColor=0F172A&color=10B981" alt="Snake workflow status"/>
 <img src="https://img.shields.io/github/last-commit/Kartik-IN/Kartik-IN?style=for-the-badge&label=Last%20Update&labelColor=0F172A&color=2563EB" alt="Last update"/>
 <img src="https://img.shields.io/badge/Schedule-Daily-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Daily schedule"/>
 

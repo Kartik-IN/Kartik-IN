@@ -4,11 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%3E+system.boot()+...+OK;%3E+deploying_infrastructure_as_code();%3E+monitoring_%3A+ONLINE;%3E+status%3A+OPEN_TO_WORK+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=50&color=2DD4BF&vCenter=true&size=22&pause=1200&background=00000000" alt="Typing SVG"/>
 
+<p><strong>DevOps Engineer building reliable cloud infrastructure and automated delivery systems.</strong></p>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kartik-IN&label=PROFILE%20SCANS&color=0891B2&style=for-the-badge&labelColor=0F172A" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Kartik-IN?label=NODES%20CONNECTED&style=for-the-badge&color=10B981&labelColor=0F172A" alt="Followers"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20DEPLOYMENT-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Open to work"/>
 
 </div>
 
@@ -37,6 +38,10 @@ seeking    : DevOps / Cloud / Data Engineering internship or entry-level role
 contact    : kalekartik2004@gmail.com
 > profile loaded successfully ✔
 ```
+
+### `CURRENTLY_BUILDING`
+
+`Terraform modules` &nbsp; `Secure CI/CD pipelines` &nbsp; `Observable workloads`
 
 <br/>
 
@@ -98,48 +103,74 @@ contact    : kalekartik2004@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik-IN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=7C3AED&text_color=E2E8F0&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-IN&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=7C3AED&currStreakLabel=2DD4BF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-IN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E2E8F0&langs_count=8" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-IN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2DD4BF&line=7C3AED&point=10B981" width="90%"/>
-
 </div>
 
 <br/>
 
 ## `// 04_FEATURED_DEPLOYMENTS.projects`
 
+<!-- PROJECTS:START -->
 <table width="100%">
 <tr>
-<td width="68%" valign="top">
+<td width="33%" valign="top">
 
-### [⚙️ Automated GitHub Profile System](https://github.com/Kartik-IN/Kartik-IN)
-`STATUS: ACTIVE BUILD`
+### [🔎 Actions Log Analyzer](https://github.com/Kartik-IN/github-actions-log-analyzer)
+`PYTHON · CLI · API`
 
-A production-style profile experience powered by version-controlled SVG interfaces and GitHub Actions automation.
+Local-first, explainable analysis for failed GitHub Actions jobs.
 
-- ⚡ Responsive dark/light profile card with animated DevOps delivery loop
-- ⚡ Scheduled contribution-snake generation from the GitHub activity graph
-- ⚡ Separate `output` branch for generated artifacts and stable embeds
-- ⚡ Workflow status, activity metrics, and theme-aware presentation
+- Deterministic failure classification
+- Evidence and investigation steps
+- Local logs or GitHub REST API mode
+
+<a href="https://github.com/Kartik-IN/github-actions-log-analyzer"><img src="https://img.shields.io/github/last-commit/Kartik-IN/github-actions-log-analyzer?style=flat-square&label=updated" alt="Actions Log Analyzer last commit"/></a>
+<a href="https://github.com/Kartik-IN/github-actions-log-analyzer/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Kartik-IN/github-actions-log-analyzer/ci.yml?branch=main&style=flat-square&label=CI" alt="Actions Log Analyzer workflow status"/></a>
 
 </td>
-<td width="32%" valign="top">
+<td width="33%" valign="top">
 
-### `NEXT_UP`
-`STATUS: PLANNED`
+### [☸️ Multi-Cluster GitOps](https://github.com/Kartik-IN/multi-cluster-gitops)
+`AWS EKS · ARGO CD · K8S`
 
-The next projects will be added here as they become real and deployable.
+Hub-and-spoke delivery across two EKS clusters, with GitHub as the source of truth.
 
-- AWS infrastructure lab
-- Secure CI/CD platform
-- Observable serverless system
+- Declarative application sync
+- Drift detection and self-healing
+- Operator-controlled AWS resources
+
+<a href="https://github.com/Kartik-IN/multi-cluster-gitops"><img src="https://img.shields.io/github/last-commit/Kartik-IN/multi-cluster-gitops?style=flat-square&label=updated" alt="Multi-Cluster GitOps last commit"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+### [🛡️ DevSecOps Node App](https://github.com/Kartik-IN/devsecops-nodejs-app)
+`JENKINS · DOCKER · AWS`
+
+Production-style delivery pipeline for a Node.js application.
+
+- Automated build and security scanning
+- DockerHub image publishing
+- AWS EC2 deployment via webhooks
+
+<a href="https://github.com/Kartik-IN/devsecops-nodejs-app"><img src="https://img.shields.io/github/last-commit/Kartik-IN/devsecops-nodejs-app?style=flat-square&label=updated" alt="DevSecOps Node App last commit"/></a>
 
 </td>
 </tr>
 </table>
+<!-- PROJECTS:END -->
+
+<br/>
+
+### `ARCHITECTURE_SPOTLIGHT`
+
+```mermaid
+flowchart LR
+  G[GitHub<br/>source of truth] --> A[Argo CD<br/>hub EKS]
+  A --> S1[Spoke EKS 1<br/>Guestbook]
+  A --> S2[Spoke EKS 2<br/>Guestbook]
+  S1 -. drift / health .-> A
+  S2 -. drift / health .-> A
+```
 
 <br/>
 
@@ -168,6 +199,8 @@ The next projects will be added here as they become real and deployable.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kartik-IN/Kartik-IN/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/Kartik-IN/Kartik-IN/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution graph snake"/>
 </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-IN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2563EB&point=10B981" width="90%" alt="GitHub contribution activity graph"/>
 
 <sub>Animated daily contribution activity, generated by GitHub Actions.</sub>
 </div>

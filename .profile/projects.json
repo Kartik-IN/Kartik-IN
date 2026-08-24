@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Actions Log Analyzer",
+    "icon": "🔎",
+    "repo": "github-actions-log-analyzer",
+    "stack": "PYTHON · CLI · API",
+    "summary": "Local-first, explainable analysis for failed GitHub Actions jobs.",
+    "bullets": [
+      "Deterministic failure classification",
+      "Evidence and investigation steps",
+      "Local logs or GitHub REST API mode"
+    ],
+    "workflow": "ci.yml",
+    "workflow_label": "CI"
+  },
+  {
+    "name": "Multi-Cluster GitOps",
+    "icon": "☸️",
+    "repo": "multi-cluster-gitops",
+    "stack": "AWS EKS · ARGO CD · K8S",
+    "summary": "Hub-and-spoke delivery across two EKS clusters, with GitHub as the source of truth.",
+    "bullets": [
+      "Declarative application sync",
+      "Drift detection and self-healing",
+      "Operator-controlled AWS resources"
+    ]
+  },
+  {
+    "name": "DevSecOps Node App",
+    "icon": "🛡️",
+    "repo": "devsecops-nodejs-app",
+    "stack": "JENKINS · DOCKER · AWS",
+    "summary": "Production-style delivery pipeline for a Node.js application.",
+    "bullets": [
+      "Automated build and security scanning",
+      "DockerHub image publishing",
+      "AWS EC2 deployment via webhooks"
+    ]
+  }
+]
